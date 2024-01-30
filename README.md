@@ -11,22 +11,22 @@
 ### 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-verma-717331232/">
+  <a href="https://www.linkedin.com/in/shubham-verma-717331232/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="https://twitter.com/Shubh040810">
+ <a href="https://twitter.com/Shubh040810" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/shubham.040">
+  <a href="https://www.instagram.com/shubham.040" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-   <a href="https://codepen.io/shubh-v">
+   <a href="https://codepen.io/shubh-v" target="blank">
     <img src="https://img.shields.io/badge/Codepen-FFA116?style=for-the-badge&logo=codepen&logoColor=black" />
   </a>
-  <a href="https://dev.to/shubh040810">
+  <a href="https://dev.to/shubh040810" target="blank">
     <img src="https://img.shields.io/badge/devcommunity-39E09B?style=for-the-badge&logo=devcommunity&logoColor=white" />
   </a>
- <a href="mailto:shubhamverma9982@gmail.com">
+ <a href="mailto:shubhamverma9982@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
