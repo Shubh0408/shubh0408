@@ -73,6 +73,11 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 <div>
+    <h2>Server</h2>
+    <img src="https://img.shields.io/badge/Linux%20Server-yellow?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows-xp&logoColor=white" />
+</div>
+<div>
 <h2>Frameworks</h2>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
