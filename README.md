@@ -73,7 +73,13 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 <div>
-    <h2>Server</h2>
+    <h2>Web Server</h2>
+    <img src="https://img.shields.io/badge/Microsoft%20IIS-f3f6f4?style=for-the-badge&logo=microsoft&logoColor=00a4ef" />
+    <img src="https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=black" />   
+    <img src="https://img.shields.io/badge/Apache-DFBE6F?style=for-the-badge&logo=apache&logoColor=black" />
+</div>
+<div>
+    <h2>OS Server</h2>
     <img src="https://img.shields.io/badge/Linux%20Server-yellow?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows-xp&logoColor=white" />
 </div>
